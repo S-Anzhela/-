@@ -11,7 +11,7 @@ Romen – это ресторан, который находится всего 
 - Node
 - HTML
 - CSS
-- JS
+- JavaScript
 ## npm install
 ```
 ### Compiles and hot-reloads for development
