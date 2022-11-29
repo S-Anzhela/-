@@ -1,0 +1,28 @@
+<style>
+
+.overlay{
+    position:absolute;
+}
+
+form{
+    position: relative;
+    padding: 5px;
+    width: 150px;
+    height: 180px;
+    border-radius: 4px;
+    background: #fff;
+}
+input{
+    display: block;
+    padding: 5px 10px;
+    border-radius: 4px;
+    width: 80%;
+    margin-bottom: 20px;
+    border-color: blueviolet;
+}
+
+
+
+
+
+</style>

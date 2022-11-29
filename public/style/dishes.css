@@ -1,0 +1,26 @@
+.menu-block{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.menu-block2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bludo-block{
+    margin: 25px;
+    width: 270px;
+    height: 300px;
+    border: 5px solid;
+    border-radius: 10px;
+    
+}
+
+.image-blok img{
+    max-height: 240px;
+    max-width: 250px;
+    border-radius: 10px;
+}
+

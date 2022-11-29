@@ -1,0 +1,10 @@
+.block{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.block img{
+    height: 300px;
+    margin: 10px;
+}

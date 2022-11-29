@@ -1,0 +1,12 @@
+.footer{
+    height: 5px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bab{
+    font-size: 15px;
+}
+
+
